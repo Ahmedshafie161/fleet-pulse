@@ -1,0 +1,8 @@
+[default]
+PROJECT_NAME = "FleetPulse"
+ACCESS_TOKEN_EXPIRE_MINUTES = 60
+DATABASE_FILE = "fleetpulse.db"
+ASSETS_DIR = "assets"
+MQTT_BROKER_HOST = "localhost"
+MQTT_BROKER_PORT = 1883
+MQTT_TELEMETRY_TOPIC = "fleet/+/telemetry"
